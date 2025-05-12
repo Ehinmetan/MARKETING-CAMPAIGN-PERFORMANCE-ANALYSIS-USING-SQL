@@ -4,6 +4,7 @@ Analyzed a marketing dataset using SQL to uncover key performance insights, incl
 # Introduction
 In today’s digital landscape, marketing campaigns play a pivotal role in shaping brand visibility, driving customer engagement, and ultimately increasing conversions. Companies invest heavily in online advertising, leveraging various channels such as Google Ads, social media, email marketing, and influencer partnerships to reach their target audiences. However, not all campaigns deliver the desired results; some generate significant traction, while others underperform, leading to inefficient spending and lost opportunities.
 
+# Objectives
 This study focuses on analyzing a marketing campaign dataset using Structured Query Language (SQL) to extract actionable insights. By running targeted SQL queries, we aim to:
 - Identify the campaigns with the highest impressions to assess audience reach.
   
@@ -19,7 +20,7 @@ This study focuses on analyzing a marketing campaign dataset using Structured Qu
   
 - Rank marketing channels by total conversions, highlighting the most effective platforms for future investment.
   
-By answering these questions, this analysis will provide valuable insights that help marketers make data-driven decisions, optimize campaign strategies, and improve overall marketing efficiency. Businesses can use these findings to fine-tune ad placements, enhance audience targeting, and maximize conversion potential, ensuring higher profitability and reduced wasted ad spend.
+
 # Data Overview and Dataset Structure
 
 To effectively analyze the performance of marketing campaigns, we use a structured dataset containing key performance indicators (KPIs) and campaign-specific attributes. This dataset enables businesses to evaluate engagement levels, cost efficiency, and overall campaign effectiveness, helping them optimize future marketing strategies.
@@ -76,4 +77,19 @@ This structured format enables efficient data retrieval for insights related to 
 # SQL Queries and Analysis
 This section provides a detailed breakdown of the SQL queries used to analyze the dataset, along with the methods, results, insights, and visual representations.
 
-**Total Impressions for Each Campaign**
+- **Total Impressions for Each Campaign**: This analysis calculates the total number of impressions for each campaign. It helps measure the reach of different campaigns and assess their visibility.
+  
+![1](https://github.com/user-attachments/assets/8d38a999-f502-4ba0-aa65-259cd7c7dd54)
+
+![2 sqlPicture](https://github.com/user-attachments/assets/c6df4299-324f-4f69-b000-db91a63c8752)
+
+- **Campaign with the Highest ROI**: This analysis identifies the campaign with the highest return on investment (ROI). It provides insights into which campaign delivered the most value relative to its cost.
+  
+  ![2](https://github.com/user-attachments/assets/8daef720-eac4-4a97-abab-0bd1988b5e0a)
+
+  ![OUT2](https://github.com/user-attachments/assets/58562cbf-28c6-4cae-896d-7014dddeb49f)
+  
+  **Key Findings**: The analysis identified Campaign ID 168 from NexGen Systems as the campaign with the highest return on investment (ROI), achieving a value of 8.00. This indicates that NexGen Systems' campaign generated the highest profitability relative to its cost, making it the most successful in terms of returns.
+
+  - **Locations with the Most Impressions**: This analysis determines the locations that generated the highest number of ad impressions. It helps in understanding where the advertisements gained the most visibility.
+
