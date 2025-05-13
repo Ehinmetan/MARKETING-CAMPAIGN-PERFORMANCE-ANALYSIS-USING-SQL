@@ -2,7 +2,7 @@
 Analyzed a marketing dataset using SQL to uncover key performance insights, including impressions, ROI, CTR, and user engagement. I also documented queries and findings to support data-driven decisions for campaign optimization
 
 # Introduction
-In today’s digital landscape, marketing campaigns play a pivotal role in shaping brand visibility, driving customer engagement, and ultimately increasing conversions. Companies invest heavily in online advertising, leveraging various channels such as Google Ads, social media, email marketing, and influencer partnerships to reach their target audiences. However, not all campaigns deliver the desired results; some generate significant traction, while others underperform, leading to inefficient spending and lost opportunities.
+In today’s digital landscape, marketing campaigns play a pivotal role in shaping brand visibility, driving customer engagement, and ultimately increasing conversions. Companies invest heavily in online advertising, leveraging various channels such as Google Ads, social media, email marketing, and influencer partnerships to reach their target audiences. However, not all campaigns deliver the desired results, some generate significant traction, while others underperform, leading to inefficient spending and lost opportunities.
 
 # Objectives
 This study focuses on analyzing a marketing campaign dataset using Structured Query Language (SQL) to extract actionable insights. By running targeted SQL queries, we aim to:
