@@ -93,3 +93,34 @@ This section provides a detailed breakdown of the SQL queries used to analyze th
 
   - **Locations with the Most Impressions**: This analysis determines the locations that generated the highest number of ad impressions. It helps in understanding where the advertisements gained the most visibility.
 
+![3](https://github.com/user-attachments/assets/6d177b04-66d3-474d-922c-f8bd4ba70a18)
+
+![OUT 3](https://github.com/user-attachments/assets/19929e95-d73a-41d3-a032-ecf1d146eddc)
+
+  **Key Findings**: The analysis showed that New York recorded the highest number of ad impressions (22,135,9756), followed closely by Miami (22,134,7726) and Chicago (21,999,9352). This indicates strong marketing exposure in these cities, positioning them as strategic targets for focused advertising efforts.
+
+- **Average Engagement Score for Target Audience**: This analysis calculates the average engagement score for different audience segments. It helps assess how effectively each audience interacts with the campaign content.
+
+![4](https://github.com/user-attachments/assets/2b2fa9cc-e5a9-46b8-98f5-10a7f195227b)
+
+![OUT4](https://github.com/user-attachments/assets/0dd2020f-01d8-46d6-ab9a-2b7c672ca06d)
+
+  **Key Findings**: Men aged 18–24 recorded the highest engagement score (5.51), indicating the strongest interaction with marketing content. Other high-performing segments included Men 25–34 and Women 25–34, each with engagement scores above 5.49. This highlights young adults as a highly responsive demographic for current campaigns.
+
+ - **Overall Click-Through Rate (CTR)**:This metric reflects how effectively the marketing campaigns convert impressions into clicks, serving as a key indicator of audience engagement with the ads.
+
+![5](https://github.com/user-attachments/assets/f0c9bea7-3049-40b5-98c4-b89fd28ec9c3)
+
+![OUT5](https://github.com/user-attachments/assets/3ddd179e-4141-48c2-aa58-791890b9400d)
+
+**Key Findings**: The overall Click-Through Rate (CTR) across all campaigns was 9.98%, reflecting strong user engagement. A high CTR indicates that the ads effectively captured attention and prompted action.
+
+- **Most Cost-Effective Campaign**: This analysis identifies the campaign with the lowest cost per conversion. It helps in evaluating which  campaign delivers the best results at the least expense.
+
+![6](https://github.com/user-attachments/assets/dd4f885b-9f37-4dfa-9f95-55867323a766)
+
+![OUT6](https://github.com/user-attachments/assets/f697f6c1-169d-4487-b863-1179edc1ec54)
+
+**Key Findings**: Alpha Innovations ran the most cost-effective ampaign, with a cost per conversion of $33,346.67. This means that while their campaign converted leads effectively, the cost per acquired customer remains high.
+
+- **High-Performing Campaigns (CTR > 5%)**: This analysis identified campaigns with a Click-Through Rate above 5%, spotlighting those with the strongest user engagement. Filtering by this threshold helps prioritize campaigns that are performing above average and may warrant additional investment
