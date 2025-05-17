@@ -15,6 +15,8 @@ Table of content
 
 - [Conclusion](https://github.com/Ehinmetan/MARKETING-CAMPAIGN-PERFORMANCE-ANALYSIS-USING-SQL/blob/main/README.md#conclusion)
 
+- [Reconmmendations](https://github.com/Ehinmetan/MARKETING-CAMPAIGN-PERFORMANCE-ANALYSIS-USING-SQL/blob/main/README.md#recommendations)
+
 # Introduction
 In today’s digital landscape, marketing campaigns play a pivotal role in shaping brand visibility, driving customer engagement, and ultimately increasing conversions. Companies invest heavily in online advertising, leveraging various channels such as Google Ads, social media, email marketing, and influencer partnerships to reach their target audiences. However, not all campaigns deliver the desired results, some generate significant traction, while others underperform, leading to inefficient spending and lost opportunities.
 
@@ -156,7 +158,7 @@ This section provides a detailed breakdown of the SQL queries used to analyze th
 **Key Findings** The top-performing marketing channels based on total conversions are Email with 2,697.38 conversions, Google Ads with 2,681.24 conversions, Website with 2,674.95 conversions, YouTube with 2,667.76 conversions, Instagram with 2,667.57 conversions, and Facebook with 2,625.27 conversions. Email marketing generated 
 the highest number of conversions, indicating that direct communication with users was the most effective channel.
 
-# CONCLUSION
+# Conclusion
 The analysis of the marketing campaign dataset provided several key insights that can guide future marketing decisions:
 
 - **Campaign Reach**: The total impressions analysis showed thatcampaigns varied widely in their reach, with some significantly outperforming others in terms of visibility.
@@ -177,7 +179,7 @@ The analysis of the marketing campaign dataset provided several key insights tha
 
 These insights provide a data-driven foundation for optimizing future marketing campaigns, focusing on high-performing demographics, locations, and channels while improving cost efficiency and engagement strategies.
 
-# RECOMMENDATIONS
+# Recommendations
 To enhance marketing performance and cost-effectiveness:
 
 - **Prioritize High-Performing Locations**: Focus marketing efforts  in New York, Miami, and Chicago.
