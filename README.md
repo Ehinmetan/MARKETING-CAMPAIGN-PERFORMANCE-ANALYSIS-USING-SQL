@@ -11,6 +11,8 @@ Table of content
 
 - [Data Structure](https://github.com/Ehinmetan/MARKETING-CAMPAIGN-PERFORMANCE-ANALYSIS-USING-SQL/blob/main/README.md#dataset-structure)
 
+- [SQL Queries and Analysis](https://github.com/Ehinmetan/MARKETING-CAMPAIGN-PERFORMANCE-ANALYSIS-USING-SQL/blob/main/README.md#sql-queries-and-analysis)
+
 # Introduction
 In today’s digital landscape, marketing campaigns play a pivotal role in shaping brand visibility, driving customer engagement, and ultimately increasing conversions. Companies invest heavily in online advertising, leveraging various channels such as Google Ads, social media, email marketing, and influencer partnerships to reach their target audiences. However, not all campaigns deliver the desired results, some generate significant traction, while others underperform, leading to inefficient spending and lost opportunities.
 
